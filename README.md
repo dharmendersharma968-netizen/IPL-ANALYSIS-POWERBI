@@ -50,6 +50,9 @@ These datasets combined give a complete season-wise performance overview.
 
 
 
+
 ## 📸 Dashboard Preview
-![Dashboard Preview](IPL_BI.png)
+
+![Dashboard Preview](images/ipl_dashboard.png)
+
 
